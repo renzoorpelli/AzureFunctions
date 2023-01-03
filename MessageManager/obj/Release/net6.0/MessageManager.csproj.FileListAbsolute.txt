@@ -1,0 +1,17 @@
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\bin\Release\net6.0\MessageManager.deps.json
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\bin\Release\net6.0\MessageManager.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\bin\Release\net6.0\MessageManager.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\bin\Release\net6.0\DataAccess.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\bin\Release\net6.0\Entidades.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\bin\Release\net6.0\DataAccess.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\bin\Release\net6.0\Entidades.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\MessageManager.csproj.AssemblyReference.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\MessageManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\MessageManager.AssemblyInfoInputs.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\MessageManager.AssemblyInfo.cs
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\MessageManager.csproj.CoreCompileInputs.cache
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\MessageManager.csproj.CopyComplete
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\MessageManager.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\refint\MessageManager.dll
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\MessageManager.pdb
+C:\Users\Renzo\Documents\develop\TRABAJO\AZURE\AzureFunctions\MessageManager\obj\Release\net6.0\ref\MessageManager.dll
